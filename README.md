@@ -27,4 +27,5 @@
 
 # 2018/03/18 会议记录
 
-[排课管理系统思维导图](https://github.com/RonDen/Course-Scheduling-System/blob/master/MindMap.png)
+排课管理系统思维导图
+![排课管理系统思维导图](https://github.com/RonDen/Course-Scheduling-System/blob/master/MindMap.png)
